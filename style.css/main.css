@@ -387,3 +387,31 @@ body {
 }
 
 /*PRODUCT STYLES end*/
+
+/*FOOTER STYLES start*/
+
+.footer {
+  background: #245852;
+  padding-top: 95px;
+}
+
+.footer__nav {
+  margin-left: 275px;
+  padding-bottom: 144px;
+}
+.footer__nav__list {
+  list-style: none;
+}
+.footer__list__item {
+  margin-bottom: 60px;
+}
+
+.footer__item__link {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 25px;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}
+
+/*FOOTER STYLES end*/
